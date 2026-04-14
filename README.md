@@ -31,24 +31,23 @@ I’m a developer focused on performance, systems programming, and the inner wor
 
 ### 📊 Vital Signs
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=shankkyyyyy&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkyyyyy&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shankkyyyyy&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://github.com/shankkyyyyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk%20is%20cheap.%20Show%20me%20the%20code." />
