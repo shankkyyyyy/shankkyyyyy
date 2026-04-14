@@ -1,13 +1,13 @@
-# 0x53 0x48 0x41 0x4e 0x4b 0x4b 0x59
+# Trust The Program
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=120&section=header&text=SHANKKYYYYY&fontSize=80&fontColor=7aa2f7&animation=twinkling" />
 </p>
 
-### 💻 [Kernel Space Enthusiast]
-> `void* soul = malloc(sizeof(machine_code));`
+### LOVES Assembly
+> `void* love = malloc(sizeof(machine_code));`
 
-Low-level engineer focused on performance, memory safety, and systems architecture. I spend my time between registers, pointers, and manual memory management.
+I love to program in Assembly aka i love to suffer.
 
 ---
 
